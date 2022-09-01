@@ -19,7 +19,7 @@
 ---
 
 ### Estos ejercicios se elaboraron para la practica de conocimiento de las bases de datos para las Practicas profecionales como Tecnologías de la Información / Data Management.
-<p> Los ejercicios son de diferentes niveles de complejidad, en total son 8 problemas los cuales contienen varias consultas que resolver.</p>
+<p> Los ejercicios son de diferentes niveles de complejidad, en total son 8 problemas los cuales contienen varias consultas que resolver. Elaborando cad auna de las bases de datos para cada ejercicio implementando sus componentes.</p>
 
 <br>
 
