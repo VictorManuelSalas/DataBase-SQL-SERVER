@@ -2,7 +2,7 @@
 
 
 
-  # Ejercicios de Base de datos en SQL SERVER MANAGMENT ✨
+  <h1 align="center"> Ejercicios de Base de datos en SQL SERVER MANAGMENT ✨</h1>
 
 
 <div align='center' >
@@ -14,7 +14,7 @@
 
 ---
 
-<h1 align="center">Informática Aplicada SA de CV <img  src="http://iaplicada.com.mx/wp-content/uploads/2016/07/logo_blue.png" width="170" /> </h1>
+<h2 align="center">Informática Aplicada SA de CV <img  src="http://iaplicada.com.mx/wp-content/uploads/2016/07/logo_blue.png" width="170" /> </h2>
 
 ---
 
