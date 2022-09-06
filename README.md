@@ -24,7 +24,13 @@
 <br>
 
 ---
-
+* Ejercicio #1 "Los Viajeros"
+  1.- Listado de todos los lugares para viajar registrados en la base de datos. <br>
+  2.- Listado con el nombre y apellido de todos los pasajeros. <br> 
+  3.- Seleccionar el nombre y el clima de todos los lugares. <br>
+  4.- Mostrar el nombre, toral de habiantes de todos los lugares ademas suponer un incremento de la poblacion de cada lugar en 1000000 habitantes. <br>
+  5.- Mostrar el nombre, tipo de lugar y el numero de habitantes de cada lugar si su poblacion se doblara. Nombrar la columna com "Doble_de_habitantes". <br>
+  
 * Ejercicio #8 "Los Directores"
   <div align='center' >
     <img  src="https://github.com/VictorManuelSalas/DataBase-SQL-SERVER/blob/main/eje8.jpeg"  />
