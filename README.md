@@ -24,27 +24,27 @@
 <br>
 
 ---
-* Ejercicio #1 "Los Viajeros"
+* Ejercicio #1 "Los Viajeros" <br>
   1.- Listado de todos los lugares para viajar registrados en la base de datos. <br>
   2.- Listado con el nombre y apellido de todos los pasajeros. <br> 
   3.- Seleccionar el nombre y el clima de todos los lugares. <br>
   4.- Mostrar el nombre, toral de habiantes de todos los lugares ademas suponer un incremento de la poblacion de cada lugar en 1000000 habitantes. <br>
   5.- Mostrar el nombre, tipo de lugar y el numero de habitantes de cada lugar si su poblacion se doblara. Nombrar la columna coN "Doble_de_habitantes". <br>
 
-* Ejercicio #2 "Empresa de Alimentos"
+* Ejercicio #2 "Empresa de Alimentos" <br>
   1.- Se quiere un listado con el siguiente formato: El departamento de CONTABILIDAD está en CARACAS. <br>
   2.- Para cada empleado cuyo apellido contenga una "N", se quiere el oficio y apellido. La salida debe estar ordenada por apellido ascendentemente. <br>
   3.- Listado de empleados con su salario total (salario más comisión). La salida debe estar ordenada por el salario y el apellido descendentemente.<br>
   4.- Para cada empleado que no tenga comisión o cuya comisión sea mayor que el 15% de su salario, se pide el salario total que tiene. Este será: salario más su comisión más el 15% del salario. La salida deberá estar ordenada por el oficio y por el salario que le queda descendentemente. <br>
 
-* Ejercicio #3 "Los Viajeros"
+* Ejercicio #3 "Los Viajeros" <br>
   1.- Se quiere un listado con el siguiente formato: El departamento de CONTABILIDAD está en CARACAS.. <br>
   2.- Para cada empleado cuyo apellido contenga una "N", se quiere el oficio y apellido. La salida debe estar ordenada por apellido ascendentemente. <br> 
   3.- Listado de empleados con su salario total (salario más comisión). La salida debe estar ordenada por el salario y el apellido descendentemente. <br>
   4.- Para cada empleado que no tenga comisión o cuya comisión sea mayor que el 15% de su salario, se pide el salario total que tiene. Este será: salario más su comisión más el 15% del salario. La salida deberá estar ordenada por el oficio y por el salario que le queda descendentemente.
  <br>
   
-* Ejercicio #4 "InformaticaStore"
+* Ejercicio #4 "InformaticaStore" <br>
   1.- Obtener el nombre de los productos de la tienda. <br>
   2.- Obtener los nombres y los precios de los productos de la tienda. <br> 
   3.- Obtener el nombre de los productos cuyo precio sea menor o igual a 200bs. <br>
@@ -52,7 +52,7 @@
   5.- Obtener el nombre y el precio multiplicado por 166386, la columna debe presentarse como precio_total. <br>
   6- Seleccionar el precio medio de todos los productos. <br>
  
- * Ejercicio #5 "Empleado"
+ * Ejercicio #5 "Empleado" <br>
   1.- Obtener los apellidos de los empleados. <br>
   2.- Obtener los apellidos de los empleados sin repeticiones. <br> 
   3.- Obtener todos los datos de los empleados que se apellidan 'Lopez'. <br>
@@ -63,7 +63,7 @@
   8.- Obtener el presupuestp total de todos los departamentos. <br>
  
  
-* Ejercicio #6 "Los Almacenes"
+* Ejercicio #6 "Los Almacenes" <br>
   1.- Obtener todos los almacenes. <br>
   2.- Obtener todas las cajas cuyo contenido tenga un valor superior a 150 bs. <br> 
   3.- Obtener los tipos de contenidos de las cajas. distint es para que no se repitan los valores. <br>
@@ -71,7 +71,7 @@
   5.- Obtener el valor medio de las cajas de almacen. <br>
   6.- Obtener los codigos de los almacenes en los cuales el valor medio de las cajas sea superior a 150 bs. <br>
 
-* Ejercicio #7 "Pelis"
+* Ejercicio #7 "Pelis" <br>
   1.- Mostrar el nombre de todas las peliculas. <br>
   2.- Mostrar las distintas calificaciones de eddad que existen. <br> 
   3.- Mostrar todas las peliculas que no han sido calificadas. <br>
